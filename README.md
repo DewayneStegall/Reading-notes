@@ -1,36 +1,11 @@
-## Welcome to GitHub Pages
+# **The Reader**
+Reading notes for CF
++
+### Introduction
+-My Name is Dewayne Stegall, im from orgianlly from out by Chicago, then moved to North CArolina after Ileft the military. Learn to code has alwasy been an interest of mine just never had made my way around to it. 
 
-You can use the [editor on GitHub](https://github.com/DewayneStegall/Reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### *What is Growth Mindset*
+> - Growth Mindset is the ability to better ones self, to be abel to refine who you are to productive in enhacing your ouput to better your life in ability, skills, talents. Beleiviing that a bit of success isnt good enough to become lax and stop pushing to achieve and progress to enhance who you are as a human.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# **Dewaynes Repository**
-
-* _Growth Mindset_
-  -Is ones self confidence in themselves, to grow and develop personal life skills that enables oneself to improve and better refine themselves
-
-1. Consistency 
-2. Patience 
-3. Challenge to improve
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DewayneStegall/Reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Github Profile](https://github.com/DewayneStegall)
