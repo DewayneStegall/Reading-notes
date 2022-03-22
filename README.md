@@ -11,13 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# **Dewaynes**
+# **Dewaynes Repository**
 
 * _Growth Mindset_
-- List
+  -Is ones self confidence in themselves, to grow and develop personal life skills that enables oneself to improve and better refine themselves
 
-1. Numbered
-2. List
+1. Consistency 
+2. Patience 
+3. Challenge to improve
 
 **Bold** and _Italic_ and `Code` text
 
