@@ -31,3 +31,8 @@ Linux is an extensionless system
 Files can have any extension they like or none at all.
 Linux is case sensitive
 Beware of general mistakes
+
+
+
+
+[<===BACK](README.md)
