@@ -12,11 +12,11 @@ Reading notes for CF
 
 -1 Class01 <a href="https://dewaynestegall.github.io/Reading-notes/class01.md"</a>
 
--2 Cheatsheet <a href="https://github.com/DewayneStegall/Reading-notes/blob/6ff4184aeb3e67cfa8409a40f0dfc1c86d75d200/Cheatsheet02.md"</a>
+-2 Cheatsheet <a href="https://dewaynestegall.github.io/Reading-notes/Cheatsheet02.md"</a>
 
--3 Class02 <a href=""</a>
+-3 Class02 <a href="https://dewaynestegall.github.io/Reading-notes/class02.md"</a>
 
--4 Class03 <a href=</a>
+-4 Class03 <a href="https://dewaynestegall.github.io/Reading-notes/class03.md"</a>
 
 [Github Profile](https://github.com/DewayneStegall)
 
