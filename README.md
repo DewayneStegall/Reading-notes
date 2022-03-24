@@ -10,13 +10,10 @@ Reading notes for CF
 
 ### *Table Of Contents *
 
--1 [Class01](https://dewaynestegall.github.io/Reading-notes/class01)
-
--2 Cheatsheet <a href="https://dewaynestegall.github.io/Reading-notes/Cheatsheet02.md"</a>
-
--3 Class02 <a href="https://dewaynestegall.github.io/Reading-notes/class02.md"</a>
-
--4 Class03 <a href="https://dewaynestegall.github.io/Reading-notes/class03.md"</a>
+1. [Class01](https://dewaynestegall.github.io/Reading-notes/class01)
+1. [Cheatsheet](https://dewaynestegall.github.io/Reading-notes/Cheatsheet02)
+1. [Class02](https://dewaynestegall.github.io/Reading-notes/class02)
+1. [Class03](https://dewaynestegall.github.io/Reading-notes/class03)
 
 [Github Profile](https://github.com/DewayneStegall)
 
