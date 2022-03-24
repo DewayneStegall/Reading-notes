@@ -10,7 +10,7 @@ Reading notes for CF
 
 ### *Table Of Contents *
 
--1 Class01 <a href="https://dewaynestegall.github.io/Reading-notes/class01.md"</a>
+-1 [Class01](https://dewaynestegall.github.io/Reading-notes/class01)
 
 -2 Cheatsheet <a href="https://dewaynestegall.github.io/Reading-notes/Cheatsheet02.md"</a>
 
