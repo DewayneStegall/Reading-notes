@@ -1,0 +1,23 @@
+## Javascript
+
+####Controll Flow
+Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequent) structures that change the control flow, such as conditionals and loops.
+
+#### **Functions**
+   -Console.log
+
+#### **Java Operators**
+  - JavaScript has both binary and unary operators, and one special ternary operator, the conditional operator. A binary operator requires two operands, one before the operator and one after the operator:
+    
+  -The assignment operator (=) assigns a value to a variable. 
+       Ex. let x = 5;
+  -The addition operator (+) adds numbers:
+       Ex. let x = 5;   let y = 2;   let z = x + y;
+  -The multiplication operator (*) multiplies numbers   
+       Ex. let z = x * y;
+  -The + operator can also be used to add (concatenate) strings.
+       let text1 = "John";
+       let text2 = "Doe";
+       let text3 = text1 + " " + text2;
+
+
