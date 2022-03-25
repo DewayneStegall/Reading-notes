@@ -1,1 +1,27 @@
-##HTML
+##WireFrame & HTML
+
+####WireFrame
+  1. WireFrame is a practice which allows them to define and plan the information hierarchy of their designs for a website, app, or product
+  2. Is created in a plain white and black to allow clear visulization fo the code being writen and the placement.
+  
+  
+ #####HTML
+  1. Start paragraph 
+    <p>My bike is fast</p>
+    My bike is fast
+   The (<p>)(</p)- is the opeing and closing tag of the element
+   My bike is fast- is the content
+  1. To upload an image
+    <img src="#" alt="My test image">
+  
+  1. Anatomy of HTML Doc 
+    <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <img src="images/firefox-icon.png" alt="My test image">
+  </body>
+</html>
