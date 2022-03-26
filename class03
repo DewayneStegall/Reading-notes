@@ -1,5 +1,12 @@
-Random blob
-
+Git remote
+Learning to push a git file from your local respository to github to create a webiste using the files required for your given project
+ EX.
+ ls
+ ls (project folder)
+ projects( file name)
+ git status
+ git status (file name)
+ git commit w"(comment)"
 
 
 [<===BACK](README.md)
