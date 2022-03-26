@@ -18,6 +18,7 @@ Reading notes for CF
 1. [Class05](https://dewaynestegall.github.io/Reading-notes/class05)
 1. [Class06](https://dewaynestegall.github.io/Reading-notes/class06)
 1. [Class07](https://dewaynestegall.github.io/Reading-notes/class07)
+1. [Class08](https://dewaynestegall.github.io/Reading-notes/class08)
 
 [Github Profile](https://github.com/DewayneStegall)
 
